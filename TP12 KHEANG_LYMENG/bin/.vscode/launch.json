@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MainMenu",
+            "request": "launch",
+            "mainClass": "MainMenu",
+            "projectName": "TP12 KHEANG_LYMENG_ee244c29"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.UserListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoleListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.RoleListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.ImageListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch HotelListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.HotelListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountryListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.CountryListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainMenu",
+            "request": "launch",
+            "mainClass": "MainMenu",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch CityListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.CityListing",
+            "projectName": "TP12_4514e1be"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainMenu",
+            "request": "launch",
+            "mainClass": "MainMenu",
+            "projectName": "TP12_2d5db88e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.UserListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoleListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.RoleListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.ImageListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HotelListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.HotelListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CityListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.CityListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountryListing",
+            "request": "launch",
+            "mainClass": "TP12SubClass.CountryListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainMenu",
+            "request": "launch",
+            "mainClass": "MainMenu",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch regix",
+            "request": "launch",
+            "mainClass": "regix",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserListing",
+            "request": "launch",
+            "mainClass": "UserListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoleListing",
+            "request": "launch",
+            "mainClass": "RoleListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CityListing",
+            "request": "launch",
+            "mainClass": "CityListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountryListing",
+            "request": "launch",
+            "mainClass": "CountryListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HotelListing",
+            "request": "launch",
+            "mainClass": "HotelListing",
+            "projectName": "TP12_e9a1987e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageListing",
+            "request": "launch",
+            "mainClass": "ImageListing",
+            "projectName": "TP12_e9a1987e"
+        }
+    ]
+}
