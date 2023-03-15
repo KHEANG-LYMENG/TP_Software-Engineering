@@ -1,13 +1,17 @@
 # TP_Software-Engineering
 
 
-## Command used for run DesktopApp
+## How to run DesktopApp?
+
+- After clone, just cd to DesktopApp directory then type command
 ```
 mvn javafx:run
 ```
 
-## Command used for run WebApp
+## How to run WebApp?
+
+- AFter clone, just cd to WebApp directory then type command
 ```
 mvn jetty:run
 ```
-=> for WebApp when run command do not close the terminal, just go to any browser then type http://localhost:8080
+### Note: for WebApp when run command do not close the terminal, just go to any browser then type http://localhost:8080
