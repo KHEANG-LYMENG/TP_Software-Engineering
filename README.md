@@ -10,7 +10,7 @@ mvn javafx:run
 
 ## How to run WebApp?
 
-- AFter clone, just cd to WebApp directory then type command
+- After clone, just cd to WebApp directory then type command
 ```
 mvn jetty:run
 ```
